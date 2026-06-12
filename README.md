@@ -13,7 +13,7 @@
 - 💡 I love building apps that solve **real problems for real people**
 - 🏆 Hackathon Winner — **HackAxios2K25** (in association with AWS & Ethereum)
 - 🌐 Built projects for **local businesses** and **government portals**
-- 📫 Reach me: [GitHub @Creator-Mihir](https://github.com/Creator-Mihir)
+- 📫 Reach me: [E-mail:mihirrawat325@gamil.com](mihirrawat325@gmail.com)
 
 ---
 
@@ -46,11 +46,19 @@
 | 🏆 **HackAxios2K25 Winner** | Hackathon by college club in association with AWS & Ethereum |
 | 🌐 **Real Client Projects** | Built & deployed apps for actual local businesses |
 | 🏛️ **Hackathon — Suvidha** | Govt. services portal built during national-level hackathon |
-| 📦 **5+ Deployed Projects** | All live on Vercel with real users |
+| 📦 **5+ Deployed Projects** | All live on Vercel and Render |
 
 ---
 
 ### 🚀 My Projects
+---
+#### 🍽️ CanteenOS — Smart Canteen & Restaurant System
+> A full-stack web application that digitizes canteen and restaurant operations with QR-based ordering, real-time kitchen updates, UPI payments, and role-based dashboards.
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-CanteenOS-4CAF50?style=for-the-badge)](https://canteen-app-lyart.vercel.app/menu/1)
+[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Creator-Mihir/canteenApp)
+
+**Stack:** React • Vite • Node.js • Express.js • MongoDB • Tailwind CSS • Socket.IO • JWT Authentication
 
 ---
 
